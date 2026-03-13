@@ -1,2 +1,0 @@
-# Restoran
-Projek untuk UTS
